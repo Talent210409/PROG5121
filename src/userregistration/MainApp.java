@@ -32,7 +32,7 @@ public class MainApp {
 
         if (user.loginUser(loginUsername, loginPassword)) {
 
-            JOptionPane.showMessageDialog(null, "Welcome to QuickChat.");
+            JOptionPane.showMessageDialog(null, "Welcome to My QuickChat.");
 
             int messageLimit = Integer.parseInt(JOptionPane.showInputDialog("How many messages would you like to send?"));
             QuickChat chat = new QuickChat(messageLimit, manager);
