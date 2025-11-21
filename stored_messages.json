@@ -1,0 +1,16 @@
+[
+  {
+    "MessageID": "1122300571",
+    "Recipient": "+27791532114",
+    "Message": "Hello friend",
+    "MessageHash": "11:1:HELLOFRIEND",
+    "Timestamp": "Mon Oct 13 13:39:40 UTC 2025"
+  },
+  {
+    "MessageID": "9165286748",
+    "Recipient": "+27791532114",
+    "Message": "hello",
+    "MessageHash": "91:1:HELLOHELLO",
+    "Timestamp": "Fri Nov 21 17:28:08 UTC 2025"
+  }
+]
